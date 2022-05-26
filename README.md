@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/trialokt2605" target="blank"><img src="https://img.shields.io/twitter/follow/trialokt2605?logo=twitter&style=for-the-badge" alt="trialokt2605" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [lebur.my.id](lebur.my.id)
+- 👨‍💻 All of my projects are available at https://github.com/trialokt2605
 
 - 📫 How to reach me **trialokt2605@hotmail.com**
 
